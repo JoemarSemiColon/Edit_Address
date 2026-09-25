@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title("File Upload")
+st.title("IDIT ADDRESS")
 
 with st.form("upload_form"):
 
